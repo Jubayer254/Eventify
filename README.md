@@ -19,7 +19,7 @@ This Django-based Event Management System enables users to create, modify, delet
 * **View Events:** All users, even those not logged in, can view events on the homepage.
 * **Event Permissions:** Users can only update or delete their own events. Admins have complete control over all events.
 
-### Event Booking (Logged-In Users Only)
+### Event Booking
 * **Booking:** Only registered and logged-in users can reserve events.
 * **Booked Events Page:** Displays all events reserved by the user, including details such as event name, date, and location.
 * **Booking Status:** The homepage displays a "Booked" label next to events already reserved by the logged-in user.
